@@ -1,1 +1,0 @@
-{"version":3,"sources":["/home/akos/Work/akisusd.github.io/src/scss/styles.scss"],"names":[],"mappings":"AAAA,QACE,iBAAA,CACA,QAAA,CACA,UAAW","file":"main.ee935c49.chunk.css","sourcesContent":[".footer {\n  position: absolute;\n  bottom: 0;\n  width: 100%;\n}"]}
