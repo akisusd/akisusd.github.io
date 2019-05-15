@@ -1,37 +1,35 @@
 {
-  "name": "akos",
-  "version": "0.0.1",
+  "name": "website",
+  "version": "0.1.0",
   "private": true,
   "homepage": "https://akisusd.github.io/",
-  "devDependencies": {
-    "react-scripts": "~2.1.8",
-    "redux-logger": "~3.0.6"
-  },
   "dependencies": {
-    "bootstrap-scss": "~4.3.1",
     "gh-pages": "^2.0.1",
-    "moment": "~2.19.2",
-    "node-sass": "^4.11.0",
-    "prop-types": "~15.6.1",
     "react": "^16.8.6",
-    "react-dom": "~16.3.1",
-    "react-redux": "~5.0.7",
-    "react-router-dom": "~5.0.0",
-    "redux": "~3.5.2",
-    "redux-thunk": "~2.1.0"
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1"
   },
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "eject": "react-scripts eject",
-    "test": "react-scripts test --env=node --passWithNoTests"
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
