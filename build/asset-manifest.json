@@ -1,16 +1,15 @@
 {
-  "files": {
-    "main.css": "/static/css/main.2cce8147.chunk.css",
-    "main.js": "/static/js/main.28647029.chunk.js",
-    "main.js.map": "/static/js/main.28647029.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.b41502e9.chunk.js": "/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.054774adbe886ee6e3c29227ef1745b5.js": "/precache-manifest.054774adbe886ee6e3c29227ef1745b5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
-  }
+  "main.css": "/akisusd/akisusd.github.io/static/css/main.ee935c49.chunk.css",
+  "main.js": "/akisusd/akisusd.github.io/static/js/main.aed0dee6.chunk.js",
+  "main.js.map": "/akisusd/akisusd.github.io/static/js/main.aed0dee6.chunk.js.map",
+  "runtime~main.js": "/akisusd/akisusd.github.io/static/js/runtime~main.3cb048b2.js",
+  "runtime~main.js.map": "/akisusd/akisusd.github.io/static/js/runtime~main.3cb048b2.js.map",
+  "static/css/2.d256416d.chunk.css": "/akisusd/akisusd.github.io/static/css/2.d256416d.chunk.css",
+  "static/js/2.9c115357.chunk.js": "/akisusd/akisusd.github.io/static/js/2.9c115357.chunk.js",
+  "static/js/2.9c115357.chunk.js.map": "/akisusd/akisusd.github.io/static/js/2.9c115357.chunk.js.map",
+  "index.html": "/akisusd/akisusd.github.io/index.html",
+  "precache-manifest.a272e7b2ebcec160d824a2495c18773e.js": "/akisusd/akisusd.github.io/precache-manifest.a272e7b2ebcec160d824a2495c18773e.js",
+  "service-worker.js": "/akisusd/akisusd.github.io/service-worker.js",
+  "static/css/2.d256416d.chunk.css.map": "/akisusd/akisusd.github.io/static/css/2.d256416d.chunk.css.map",
+  "static/css/main.ee935c49.chunk.css.map": "/akisusd/akisusd.github.io/static/css/main.ee935c49.chunk.css.map"
 }
