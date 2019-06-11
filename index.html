@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Hazifeladat</title>
+    <link rel="stylesheet" href="./src/css/main.css">
+    <script src="node_modules/traceur/bin/traceur.js"></script>
+    <script src="node_modules/systemjs/dist/system.js"></script>
+    <script src="node_modules/lodash/lodash.js"></script>
+</head>
+<body>
+  <script>
+    System.paths['jquery'] = './node_modules/jquery/dist/jquery.js';
+    System.import('src/app.js');
+  </script>
+</body>
+</html>
