@@ -1,4 +1,3 @@
-[
         {
         "id":1,
         "name":"Ruby on Rails Tote",
@@ -2328,4 +2327,3 @@
         ],
         "has_variants":false
     }
-]
