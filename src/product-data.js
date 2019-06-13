@@ -1,4 +1,4 @@
-export let product = [
+product = [
         {
         "id":1,
         "name":"Ruby on Rails Tote",
