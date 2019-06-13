@@ -1,4 +1,5 @@
-        {
+       {  
+   "products":[ {
         "id":1,
         "name":"Ruby on Rails Tote",
         "description":"Voluptatum suscipit a aut repellat. Beatae sint aut ea quos quis veniam. Quia in optio temporibus cumque.",
@@ -2326,4 +2327,4 @@
             }
         ],
         "has_variants":false
-    }
+    }]}
